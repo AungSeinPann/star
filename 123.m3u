@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="INDIA", IN | STAR SPORTS SELECT 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36835
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="INDIA", IN | STAR SPORTS SELECT 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36836
